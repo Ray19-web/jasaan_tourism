@@ -28,7 +28,7 @@ $pageTitle = "Explore - Tourism_Jasaan";
             <?php include '../../includes/user_navbar.php'; ?>
 
             <main>
-                <h1>Explore Page</h1>
+                <h1>Explores Page</h1>
             </main>
 
         </div>
