@@ -20,7 +20,11 @@
 
 body {
     font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+<<<<<<< HEAD
     /* overflow: hidden; */
+=======
+    overflow: hidden;
+>>>>>>> b626dd648931896fba480bd4d5e33e106dbc545b
 }
 
 /* Splash screen container */
